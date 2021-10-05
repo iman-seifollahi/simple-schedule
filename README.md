@@ -2,9 +2,9 @@ This project was done at the request of Mr. Farhad.
 
 Please do the following:
 
-composer install /n
-npm install
-php artisan key:generate
+composer install // 
+npm install // 
+php artisan key:generate // 
 php artisan migrate  
 
 
